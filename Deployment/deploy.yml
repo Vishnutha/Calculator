@@ -5,7 +5,7 @@
     ansible_python_interpreter: /usr/bin/python3
   tasks:
     - name: Pull image
-      docker_image:
+      docker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_image:
         name: vishnutha/calculator:latest
         source: pull
     - name: Start docker service
