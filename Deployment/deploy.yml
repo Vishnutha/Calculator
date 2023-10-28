@@ -13,5 +13,5 @@
         name: docker
         state: started
     - name: Running container
-      shell: docker run -it -d --name calculator vishnutha/calculator
+      shell: docker run -it -d --name scalculator vishnutha/calculator
 
