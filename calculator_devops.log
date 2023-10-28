@@ -2,3 +2,7 @@
 2023-03-21 17:12:38.832 [main] INFO  org.example.Main - Executing naturalLog function!
 2023-03-21 17:12:38.833 [main] INFO  org.example.Main - Executing squareRoot function!
 2023-03-21 17:12:38.834 [main] INFO  org.example.Main - Executing Power function!
+2023-10-28 17:29:41.095 [main] INFO  org.example.Main - Executing Factorial function!
+2023-10-28 17:29:41.100 [main] INFO  org.example.Main - Executing naturalLog function!
+2023-10-28 17:29:41.100 [main] INFO  org.example.Main - Executing squareRoot function!
+2023-10-28 17:29:41.101 [main] INFO  org.example.Main - Executing Power function!
