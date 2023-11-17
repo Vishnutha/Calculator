@@ -8,7 +8,8 @@ public class Main {
     private static final Logger logger = LogManager.getLogger(Main.class);
     public static void main(String[] args) {
         logger.info("The world's first unscientific calculator. Now with many many DevOp tools behind it");
-        //some changes
+        // hello world  
+        // hello pppl of the world 
         Scanner reader = new Scanner(System.in);
         int op, flag=0;
         double num, exp;
